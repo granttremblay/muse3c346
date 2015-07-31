@@ -1,0 +1,5 @@
+Download all of your rawdata to this directory. Be sure to include
+all science and calibration files. 
+
+To do this, query our 3C 346 observation in the ESO archive, 
+then on the retrieval page, **click the calchecker first**!
