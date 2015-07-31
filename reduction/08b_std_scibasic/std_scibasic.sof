@@ -1,0 +1,8 @@
+/home/grant/Science/Projects/muse3c346/rawdata/MUSE.2014-08-24T23:07:21.397.fits.fz     STD
+/home/grant/Science/Projects/muse3c346/reduction/01_bias/MASTER_BIAS.fits                MASTER_BIAS
+/home/grant/Science/Projects/muse3c346/reduction/03_flat/MASTER_FLAT.fits                MASTER_FLAT
+/home/grant/Science/Projects/muse3c346/reduction/03_flat/TRACE_TABLE.fits                TRACE_TABLE
+/home/grant/Science/Projects/muse3c346/reduction/04_wavecal/WAVECAL_TABLE.fits           WAVECAL_TABLE
+/home/grant/Science/Projects/muse3c346/reduction/07_twilight/TWILIGHT_CUBE.fits          TWILIGHT_CUBE
+/home/grant/Repository/ESO/MUSE/calib/muse-1.0/cal/badpix_table.fits                    BADPIX_TABLE
+/home/grant/Repository/ESO/MUSE/calib/muse-1.0/cal/geometry_table_wfm.fits              GEOMETRY_TABLE	
