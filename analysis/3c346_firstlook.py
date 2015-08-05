@@ -92,4 +92,4 @@ pcube = pyspeckit.Cube(cube=supercube, xarr=pxarr)
 pcube.fiteach(fittype='gaussian', guesses=[1/np.sqrt(np.pi), 10, 50.0],
               errmap=np.ones(supercube.shape[1:])/10., multicore=8)
 
-pcube.write_fit('velocity_fits_125.fits', clobber=True)
+pcube.write_fit('velocity_gaussfit_mastercube.fits', clobber=True)
